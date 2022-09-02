@@ -300,7 +300,10 @@ namespace EX_EditorBase_3J_13
         static void exitApp()
         {
             /* MessageBox.Show("Deseja Salvar o Arquivo Antes de Sair? ", "Deseja Realmente Sair de Notepad By Giustt", MessageBoxButtons.YesNo);
-            Environment.Exit(0);*/
+            Environment.Exit(0);
+            rtbText.Undo();
+            rtbText.Redo();
+            */
 
             if (MessageBox.Show("Deseja Realmente Sair de Notepad By Giustt?", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == System.Windows.Forms.DialogResult.Yes)
             {

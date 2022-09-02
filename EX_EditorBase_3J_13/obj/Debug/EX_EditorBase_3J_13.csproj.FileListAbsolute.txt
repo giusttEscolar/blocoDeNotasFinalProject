@@ -1,0 +1,33 @@
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe.config
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.pdb
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.AssemblyReference.cache
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.SuggestedBindingRedirects.cache
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Form1.resources
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Properties.Resources.resources
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.GenerateResource.cache
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.CoreCompileInputs.cache
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\source\repos\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.pdb
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.AssemblyReference.cache
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.SuggestedBindingRedirects.cache
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.pdb
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe.config
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.pdb
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Form1.resources
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Properties.Resources.resources
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.GenerateResource.cache
+C:\Users\logon\Desktop\blocoDeNotasDia2-main (2)\blocoDeNotasDia2-main\EX_EditorBase_3J_13\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.CoreCompileInputs.cache
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe.config
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\bin\Debug\EX_EditorBase_3J_13.pdb
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.AssemblyReference.cache
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.SuggestedBindingRedirects.cache
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Form1.resources
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.Properties.Resources.resources
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.GenerateResource.cache
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.csproj.CoreCompileInputs.cache
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.exe
+C:\Users\logon\Desktop\blocoDeNotasEmC-Dia3-main-2\blocoDeNotasEmC-Dia3-main\EX_EditorBase_3J_13\obj\Debug\EX_EditorBase_3J_13.pdb
